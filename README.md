@@ -1,16 +1,89 @@
-## Hi there 👋
+<div>
+  <img align="right" src="https://komarev.com/ghpvc/?username=nathan-swe&color=811ed3&style=for-the-badge&label=Visitors" />
+  <a href="https://wakatime.com/@96a13143-a47c-4a5f-932c-a56a25b82e18">
+    <img src="https://wakatime.com/badge/user/96a13143-a47c-4a5f-932c-a56a25b82e18.svg?style=for-the-badge&color=811ed3" alt="Total time coded since Aug 19 2024" />
+  </a>
+</div>
 
-<!--
-**Nathan-SWE/Nathan-SWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey 👋🏾, I'm Nathan!</h1>
+<div align="center">
+  <a href="https://github.com/nathan-swe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/nathan-swe/" target="_blank" >
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:nathanls.swe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/31ln6o6jtfic4zjqvyclkz47a7lq" target="_blank" >
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://steamcommunity.com/id/missingerror" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br>
+<p>
+  Desenvolvedor de software, crio interfaces agradáveis de usar. Embora meu foco seja o front-end, estou sempre curioso pra aprender mais sobre outras áreas e expandir meus conhecimentos. Minha meta é <b>dominar o desenvolvimento de ponta a ponta</b>, entregando qualidade, performance e segurança em tudo que faço.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🤔 Um pouco sobre mim:</h2>
+<table>
+  <tr>
+    <td colspan="2">
+      <p>🎧 &nbsp; Amo música e estou sempre com uma playlist rolando.</p>
+      <p>🎓 &nbsp; Estou cursando Engenharia de Software.</p>
+      <p>💻 &nbsp; Atualmente estudando sobre o ecossistema .NET.</p>
+      <p>🏹 &nbsp; Aficionado por RPG's.</p>
+      <p>🤓 &nbsp; No tempo livre, curto assistir animes e estou reconstruindo o habito ler livros.</p>
+      <p>💬 &nbsp; Sinta-se à vontade para me chamar no <a href="https://www.linkedin.com/in/nathan-swe/" target="_blank">LinkedIn</a>.</p>
+      <!-- <p>📄 &nbsp; Dá uma olhada no meu currículo.</p> -->          
+    </td>
+    <td colspan="2">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ln6o6jtfic4zjqvyclkz47a7lq&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ln6o6jtfic4zjqvyclkz47a7lq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=a200fa" alt="spotify-github-profile" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><h2>🛠️ Minhas ferramentas favoritas</h2></summary>
+  <div>
+    <p><b>Atuo com:</b></p>        
+    <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40px" />        
+    <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40px" />       
+    <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="40px" />
+    <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" />
+    <img title="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40px" />
+    <img title="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40px" />        
+    <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40px" />          
+    <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" />       
+    <img title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40px" />        
+    <img title="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40px" />
+    <br>
+    <br>
+    <p><b>Estou curioso sobre:</b></p>        
+    <img title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40px" />
+    <img title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40px" />
+    <img title="C-Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40px" />
+    <img title=".NET Core" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40px" />
+    <img title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40px" />
+    <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="40px" />
+  </div>
+</details>
+
+<details>
+  <summary><h2>📈 Status e atividade</h2></summary>
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathan-swe&theme=aura) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathan-swe&hide=Html&theme=aura) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathan-swe&theme=aura) |
+  | :-: | :-: | :-: |
+  
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathan-swe&theme=aura) | [![GitHub Streak](https://streak-stats.demolab.com?user=nathan-swe&theme=aura&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) |
+  | :-: | :-: |
+  
+  |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-swe&layout=compact&theme=aura&hide_border=true" alt="Top Languages" width="390px" /> | [![Discord Presence](https://lanyard.cnrad.dev/api/1277639507218530449?theme=dark&bg=15141B&animated=true&hideDiscrim=true&showDisplayName=true&hideSpotify=false&borderRadius=8px&idleMessage=Possivelmente%20longe%20do%20PC%20🍃)](https://discord.com/users/1277639507218530449) | <img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif" width="220px" /> |
+  | :-: | :-: | :-: |
+</details>
