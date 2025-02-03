@@ -30,7 +30,7 @@
 </p>
 
 <h2>🤔 Um pouco sobre mim:</h2>
-<table>
+<table align="center">
   <tr>
     <td colspan="2">
       <h3>📖 &nbsp; Lifelong learner!</h3>
