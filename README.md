@@ -26,7 +26,7 @@
 
 <br>
 <p>
-  Desenvolvedor de software. Estou sempre curioso, buscando aprender mais e expandir meu conhecimento em tecnologia. Minha meta é dominar o desenvolvimento de ponta a ponta, entregando qualidade, desempenho e segurança em tudo o que faço.
+  Desenvolvedor de software focado em qualidade, desempenho e segurança. Aprimorando minhas habilidades para dominar o desenvolvimento de ponta a ponta.
 </p>
 
 <h2>🤔 Um pouco sobre mim:</h2>
