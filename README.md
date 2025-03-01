@@ -36,7 +36,7 @@
       <h3>📖 &nbsp; Lifelong learner!</h3>
       <p>🎧 &nbsp; Amo música e estou sempre com uma playlist rolando</p>
       <p>🎓 &nbsp; Estou cursando Ciência da Computação</p>
-      <p>💻 &nbsp; Atualmente estudando sobre o ecossistema C#/.NET</p>
+      <p>💻 &nbsp; Atualmente estudando Java</p>
       <p>🏹 &nbsp; Aficionado por RPG's</p>
       <p>🤓 &nbsp; No tempo livre, curto jogar RPG, assistir animes, ler livros</p>
       <p>💬 &nbsp; Sinta-se à vontade para me chamar no <a href="https://www.linkedin.com/in/nathan-swe/" target="_blank">LinkedIn</a></p>
@@ -53,7 +53,7 @@
 <details>
   <summary><h2>🛠️ Minhas ferramentas favoritas</h2></summary>
   <div>
-    <p><b>Atuo com:</b></p>        
+    <p><b>Proficiente com:</b></p>        
       <img title="Javascript" alt="javascript-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40px" />        
       <img title="React" alt="react-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40px" />       
       <img title="Node.js" alt="nodejs-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="40px" />
@@ -66,10 +66,10 @@
       <img title="Jest" alt="jest-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40px" />
     <br>
     <br>
-    <p><b>Estou curioso sobre:</b></p>        
+    <p><b>Aprimorando em:</b></p>        
       <img title="C" alt="c-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40px" />
-      <img title="C-Sharp" alt="csharp-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40px" />
-      <img title=".NET Core" alt="dotnetcore-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40px" />
+      <img title="Java" alt="java-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40px" />
+      <img title="Spring" alt="spring-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40px" />
       <img title="SQL Server" alt="sqlserver-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40px" />
       <img title="MongoDB" alt="mongodb-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="40px" />
   </div>
