@@ -34,10 +34,10 @@
   <tr>
     <td colspan="2">
       <h3>📖 &nbsp; Lifelong learner!</h3>
-      <p>🎧 &nbsp; Amo música e estou sempre com uma playlist rolando</p>
       <p>🎓 &nbsp; Estou cursando Ciência da Computação</p>
       <p>💻 &nbsp; Atualmente estudando Java</p>
       <p>🏹 &nbsp; Aficionado por RPG's</p>
+      <p>🎧 &nbsp; Amo música e estou sempre com uma playlist rolando</p>
       <p>🤓 &nbsp; No tempo livre, curto jogar RPG, assistir animes, ler livros</p>
       <p>💬 &nbsp; Sinta-se à vontade para me chamar no <a href="https://www.linkedin.com/in/nathan-swe/" target="_blank">LinkedIn</a></p>
       <!-- <p>📄 &nbsp; Dá uma olhada no meu currículo.</p> -->
@@ -84,6 +84,6 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathan-swe&theme=aura) | [![GitHub Streak](https://streak-stats.demolab.com?user=nathan-swe&theme=aura&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) |
   | :-: | :-: |
   
-  |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-swe&layout=compact&theme=aura&hide_border=true" alt="Top Languages" width="390px" /> | [![Discord Presence](https://lanyard.cnrad.dev/api/1277639507218530449?theme=dark&bg=15141B&animated=true&hideDiscrim=true&showDisplayName=true&hideSpotify=false&borderRadius=8px&idleMessage=Possivelmente%20longe%20do%20PC%20🍃)](https://discord.com/users/1277639507218530449) | <img src="https://i.ibb.co/xKs0pCvp/ds.gif" width="220px" />  |
+  |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-swe&layout=compact&theme=aura&hide_border=true" alt="Top Languages" width="390px" /> | [![Discord Presence](https://lanyard.cnrad.dev/api/1277639507218530449?theme=dark&bg=15141B&animated=true&hideDiscrim=true&showDisplayName=true&hideSpotify=false&borderRadius=8px&idleMessage=Possivelmente%20longe%20do%20PC%20🍃)](https://discord.com/users/1277639507218530449) | <img src="https://i.ibb.co/TxMnHVgZ/ezgif-61ed919efc97af.gif" width="220px" />  |
   | :-: | :-: | :-: |
 </details>
