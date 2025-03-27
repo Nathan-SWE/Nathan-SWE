@@ -84,6 +84,6 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathan-swe&theme=aura) | [![GitHub Streak](https://streak-stats.demolab.com?user=nathan-swe&theme=aura&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) |
   | :-: | :-: |
   
-  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-swe&layout=compact&theme=aura&hide_border=true" alt="Top Languages" width="390px" /> | [![Discord Presence](https://lanyard.cnrad.dev/api/1277639507218530449)](https://discord.com/users/1277639507218530449) | <a href="https://x.com/YUDHO_XYZ/status/1896572715173400941" target="_blank"> <img src="https://i.ibb.co/TxMnHVgZ/ezgif-61ed919efc97af.gif" width="220px" /> </a>  |
+  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-swe&layout=compact&theme=aura&hide_border=true" alt="Top Languages" width="390px" /> | [![Discord Presence](https://lanyard.cnrad.dev/api/1277639507218530449?theme=dark&idleMessage=Possivelmente%20longe%20do%20PC%20🍃)](https://discord.com/users/1277639507218530449) | <a href="https://x.com/YUDHO_XYZ/status/1896572715173400941" target="_blank"> <img src="https://i.ibb.co/TxMnHVgZ/ezgif-61ed919efc97af.gif" width="220px" /> </a>  |
   | :-: | :-: | :-: |
 </details>
