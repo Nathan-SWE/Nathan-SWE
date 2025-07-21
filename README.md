@@ -21,7 +21,7 @@
   <a href="https://open.spotify.com/user/31ln6o6jtfic4zjqvyclkz47a7lq" target="_blank" >
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" />
   </a>
-  <a href="https://steamcommunity.com/id/missingerror" target="_blank">
+  <a href="https://steamcommunity.com/id/nathanls_/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank" />
   </a>
 </div>
