@@ -31,26 +31,29 @@
   Desenvolvedor front-end com foco em React (JS/TS), estudando back-end com Java e Node.js para expandir para o fullstack. Tenho praticado através de projetos próprios, com foco em estrutura de código, componentização e boas práticas. Busco evoluir de forma consistente, entregando soluções bem construídas e funcionais.
 </p>
 
-<h2>🤔 Um pouco sobre mim:</h2>
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <h3>📖 &nbsp; Lifelong learner!</h3>
-      <p>🎓 &nbsp; Estou cursando Ciência da Computação</p>
-      <p>💻 &nbsp; Atualmente estudando Java</p>
-      <p>🏹 &nbsp; Aficionado por RPG's</p>
-      <p>🎧 &nbsp; Amo música e estou sempre com uma playlist rolando</p>
-      <p>🤓 &nbsp; No tempo livre, curto jogar RPG, assistir animes, ler livros</p>
-      <p>💬 &nbsp; Sinta-se à vontade para me chamar no <a href="https://www.linkedin.com/in/nathan-swe/" target="_blank">LinkedIn</a></p>
-      <!-- <p>📄 &nbsp; Dá uma olhada no meu currículo.</p> -->
-    </td>
-    <td colspan="2">
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ln6o6jtfic4zjqvyclkz47a7lq&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ln6o6jtfic4zjqvyclkz47a7lq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=a200fa" alt="spotify-github-profile" />
-      </a>
-    </td>
-  </tr>
-</table>
+<details>
+  <summary><h2>🤔 Um pouco sobre mim:</h2></summary>
+
+  <table align="center">
+    <tr>
+      <td colspan="2">
+        <h3>📖 &nbsp; Lifelong learner!</h3>
+        <p>🎓 &nbsp; Estou cursando Ciência da Computação</p>
+        <p>💻 &nbsp; Atualmente estudando Java</p>
+        <p>🏹 &nbsp; Aficionado por RPG's</p>
+        <p>🎧 &nbsp; Amo música e estou sempre com uma playlist rolando</p>
+        <p>🤓 &nbsp; No tempo livre, curto jogar RPG, assistir animes, ler livros</p>
+        <p>💬 &nbsp; Sinta-se à vontade para me chamar no <a href="https://www.linkedin.com/in/nathan-swe/" target="_blank">LinkedIn</a></p>
+        <!-- <p>📄 &nbsp; Dá uma olhada no meu currículo.</p> -->
+      </td>
+      <td colspan="2">
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ln6o6jtfic4zjqvyclkz47a7lq&redirect=true">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ln6o6jtfic4zjqvyclkz47a7lq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=a200fa" alt="spotify-github-profile" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</details>
 
 <details>
   <summary><h2>🛠️ Minhas ferramentas favoritas</h2></summary>
@@ -85,6 +88,6 @@
 | :----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-swe&layout=compact&theme=aura&hide_border=true" alt="Top Languages" width="390px" /> | [![Discord Presence](https://lanyard.cnrad.dev/api/1277639507218530449?theme=dark&idleMessage=Possivelmente%20longe%20do%20PC%20🍃)](https://discord.com/users/1277639507218530449) | <a href="https://x.com/babs69420/status/1936488344868823248" target="_blank"> <img src="https://i.ibb.co/fdtHZWGH/ezgif-3961231538190b.gif" width="200px" /> </a> |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 </details>
