@@ -1,6 +1,6 @@
 <div align="center">
   <img align="right" src="https://komarev.com/ghpvc/?username=nathan-swe&color=811ed3&style=for-the-badge&label=Views" />
-  <a href="https://wakatime.com/@96a13143-a47c-4a5f-932c-a56a25b82e18">
+  <a href="https://wakatime.com/@96a13143-a47c-4a5f-932c-a56a25b82e18" target="_blank" rel="noopener noreferrer nofollow">
     <img align="left" src="https://wakatime.com/badge/user/96a13143-a47c-4a5f-932c-a56a25b82e18.svg?style=for-the-badge&color=811ed3" alt="Total time coded since Aug 19 2024" />
   </a>
 </div>
@@ -11,7 +11,7 @@
 # Nathan Lima | Software Developer
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/nathan-swe/" target="_blank" >
+  <a href="https://www.linkedin.com/in/nathan-swe/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nathanls.swe@gmail.com">
