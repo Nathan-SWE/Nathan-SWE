@@ -20,18 +20,17 @@
 
 <p align="left">
   <b>Front-End:</b><br>
-  <img title="Javascript" alt="javascript-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40px" />
+  <img title="Next" alt="react-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40px" />
   <img title="React" alt="react-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40px" />
   <img title="Tailwind" alt="tailwind-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40px" />
   <img title="SASS" alt="sass-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40px" />
-  <img title="Figma" alt="figma-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40px" />
   <img title="Jest" alt="jest-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40px" />
+  <img title="Figma" alt="figma-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40px" />
 </p>
 <p align="left">
   <b>Back-End (improving):</b><br>
   <img title="Node.js" alt="nodejs-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="40px" />
-  <img title="Java" alt="java-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40px" />
-  <img title="Spring" alt="spring-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40px" />
+  <img title="TypeScript" alt="TypeScript-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40px" />
 </p>
 <p align="left">
   <b>Database and others:</b><br>
