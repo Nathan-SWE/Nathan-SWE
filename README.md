@@ -11,7 +11,7 @@
 <br>
 
 <p align="left">
-  Software Developer focused on building interactive and functional web applications using React, TypeScript, and Node.js. I aim to turn ideas and designs into robust digital products with clean and scalable code. Currently expanding my back-end skills with Java and Spring to deliver complete full-stack solutions.
+  Software Developer focused on building interactive and functional web applications using React, TypeScript, and Node.js. I aim to turn ideas and designs into robust digital products with clean and scalable code. Currently expanding my back-end skills with <b>node</b> to deliver complete full-stack solutions.
 </p>
 
 ---
